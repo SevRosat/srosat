@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Severine Rosat's Pages
 
-You can use the [editor on GitHub](https://github.com/SevRosat/srosat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am CNRS researcher at [ITES](http://ites.unistra.fr).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![logo-ites-1](https://user-images.githubusercontent.com/103050298/161777250-5e278d13-d45c-4822-9f0e-dcfba0b816c4.png)
 
-### Markdown
+### Disciplines
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Geodesy, gravimetry
+
+### Objectives
+- detect core signatures in surface geodetic observables
+- put constraints on coupling at core interfaces and density changes
 
 ```markdown
-Syntax highlighted code block
+Geodetic observables are:
+# Earth's rotation data
+## GNSS surface deformation
+### Space and ground gravity data
 
-# Header 1
-## Header 2
-### Header 3
+Detecting a core signature requires:
+1. Good knowledge of precision, accuracy and biases of geodetic measurements
+2. Reduction of geophysical effects of larger amplitude
+3. Reduction of environmental fluid layers effects (atmosphere, ocean, hydrology)
+4. Prediction of expected core signals (`gravito-elastic modeling` of the Earth's response to physical processes)
 
-- Bulleted
-- List
+Indirect observations of core modes are obtained through **resonance** with external sources at the frequency of the mode. 
+For instance, diurnal tides are in resonance with the _Free Core Nutation_ mode which period is quasi-diurnal on Earth. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[More details on my activities](http://ites.unistra.fr/srosat)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SevRosat/srosat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
